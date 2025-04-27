@@ -1,6 +1,7 @@
 IT-2234(P) - Web Services and Server Technologies
 
 Day 07 - 2025.04.03
+(Please note that due to some errors my previous days work has also been uploded to the same branch and I have no idea howa to remove them ;) )
 
 Outputs of asynpro.js
 
